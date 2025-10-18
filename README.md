@@ -69,13 +69,3 @@ Atuação com **HTML**, **CSS** e **JavaScript(com Framework Express.js)** no de
 
 Você pode visualizar o currículo diretamente no navegador:
 👉 [Abrir Currículo em HTML](./curriculop_.html)
-
----
-
-## ⚙️ Como Usar
-
-Para abrir o currículo localmente:
-```bash
-git clone https://github.com/Psds13/curriculo-edmilson.git
-cd curriculo-edmilson
-start Currículo_Edmilson_Oliveira.html
